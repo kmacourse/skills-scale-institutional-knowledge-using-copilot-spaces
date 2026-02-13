@@ -41,12 +41,25 @@ This directory contains process documentation covering the complete project life
    Capture learnings after each sprint or milestone and convert them into actionable improvements.
 
 8. **[Roles & Personas](./octoacme-roles-and-personas.md)**  
-   Understand the typical roles, responsibilities, and communication patterns for Developers, Product Managers, and Project Managers at OctoAcme.
+   Understand the typical roles, responsibilities, and communication patterns for all team members at OctoAcme, including Developers, Product Managers, Project Managers, UX Designers, Data Analysts, DevOps Engineers, and Support Leads.
+
+### Templates & Checklists
+
+9. **[Project Kickoff Checklist](./octoacme-project-kickoff-checklist.md)**  
+   Comprehensive checklist to ensure all required roles are captured, responsibilities are clearly defined, and cross-functional alignment is established at project start.
+
+10. **[Cross-Team Handoff Checklist](./octoacme-cross-team-handoff-checklist.md)**  
+    Ensure smooth coordination and clear communication when work transitions between teams or roles, with specific guidance for design-to-development, development-to-DevOps, and other common handoffs.
+
+11. **[Role Clarity & Responsibility Matrix](./octoacme-role-clarity-checklist.md)**  
+    RACI matrices and checklists to ensure every team member understands their responsibilities, decision-making authority, and collaboration touchpoints.
 
 ## How to Use These Docs
 
-- **New to OctoAcme?** Start with the [Project Management Overview](./octoacme-project-management-overview.md) to understand our philosophy and approach.
-- **Starting a new project?** Follow the sequence: [Initiation](./octoacme-project-initiation.md) → [Planning](./octoacme-project-planning.md) → [Execution & Tracking](./octoacme-execution-and-tracking.md) → [Release & Deployment](./octoacme-release-and-deployment.md) → [Retrospective](./octoacme-retrospective-and-continuous-improvement.md)
+- **New to OctoAcme?** Start with the [Project Management Overview](./octoacme-project-management-overview.md) to understand our philosophy and approach, then review [Roles & Personas](./octoacme-roles-and-personas.md) to understand team structure.
+- **Starting a new project?** Follow the sequence: [Initiation](./octoacme-project-initiation.md) → [Project Kickoff Checklist](./octoacme-project-kickoff-checklist.md) → [Planning](./octoacme-project-planning.md) → [Execution & Tracking](./octoacme-execution-and-tracking.md) → [Release & Deployment](./octoacme-release-and-deployment.md) → [Retrospective](./octoacme-retrospective-and-continuous-improvement.md)
+- **Coordinating across teams?** Use the [Cross-Team Handoff Checklist](./octoacme-cross-team-handoff-checklist.md) to ensure smooth transitions.
+- **Unclear about responsibilities?** Refer to the [Role Clarity & Responsibility Matrix](./octoacme-role-clarity-checklist.md) to clarify ownership and decision-making.
 - **Looking for specific guidance?** Use the index above to jump to the relevant topic.
 - **Using GitHub Copilot Spaces?** Consider adding these docs to your `.copilot/` directory so Copilot can use them as context for project-specific assistance.
 
