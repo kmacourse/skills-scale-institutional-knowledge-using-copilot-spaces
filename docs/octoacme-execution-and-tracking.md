@@ -22,16 +22,22 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
+- Usability testing (coordinated with UX Designer)
+- Accessibility compliance verification (WCAG standards)
 
 ## Reporting & Metrics
 - Track velocity and burndown
-- Monitor success metrics identified in the Project One-pager
+- Monitor success metrics identified in the Project One-pager (coordinated with Data Analyst)
 - Use dashboards for key signals (errors, latency, usage)
+- Review user behavior metrics and experiment results
+- Monitor system health and performance metrics (with DevOps Engineer)
 
 ## Blocker Escalation
 - Level 1: Team-level triage in daily standup
 - Level 2: PM escalates to Product Lead and dependent teams
 - Level 3: Sponsor-level escalation for business-impacting issues
+- Infrastructure/Deployment issues: Escalate to DevOps Engineer
+- Customer-impacting issues: Coordinate with Support Lead for customer communication
 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
